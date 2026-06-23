@@ -9,13 +9,7 @@ Sistema de gestão proativa de EPIs e segurança em campo. Monitora o uso de Equ
 ## 👥 Integrantes
 
 | Nome | RM |
-|---|---|
-| [Integrante 1] | RM-XXXXX |
-| [Integrante 2] | RM-XXXXX |
-| [Integrante 3] | RM-XXXXX |
-| [Integrante 4] | RM-XXXXX |
-| [Integrante 5] | RM-XXXXX |
-
+Vitor Saccardo 555611
 ---
 
 ## 🔍 Problema Abordado
